@@ -42,6 +42,10 @@ main{
                
 
            }
+
+           #detalhes-conteiner > l1 {
+               align-items: baseline;
+           }
            
        }
        
